@@ -1,6 +1,6 @@
 .box{
     padding: 5px;
-    height: 30;
+    height: auto;
 }
 .feature-icon {
     width: 4rem;
